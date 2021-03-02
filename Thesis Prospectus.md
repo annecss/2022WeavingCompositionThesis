@@ -24,7 +24,7 @@ Chapter 6: Text model details
 Chapter 7: Results and further directions for prroject
 ## VI.Timeline
 -
-My first task as a researcher will be to read closely the sections of the Iliad dealing with weaving, and accumulate a working list of weaving and poetic vocabulary. 
+My first task as a researcher will be to read closely the sections of the Iliad dealing with weaving, and accumulate a working list of weaving and poetic vocabulary. I will then read the scholia of those sections in the Homeric manuscripts.
 Next, I will edit those sections and their accompanying scholia into digital editions of the 10th and 11th century manuscripts. From there, I will then build different textual models with topic modelling and word vectors.
 I will look primarily for two clusters of words, those dealing with weaving, and those dealing with epic composition.
 If I have time, I will publish a translation of these scholia. 
