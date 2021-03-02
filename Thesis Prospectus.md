@@ -1,7 +1,7 @@
 # Prospectus
 ## I.Introduction
 -
-Scholars have long recognized the importance of weaving to the ancient world, especially as the Iliad expresses. Far from the fast fashion of today, textiles were incredibly valbuble for their beauty and for the intense labor that it took to create them.
+Scholars have long recognized the importance of weaving to the ancient world, especially as the Iliad expresses. Far from the fast fashion of today, textiles were incredibly valuable for their beauty and for the intense labor that it took to create them.
 I belive the scholia of the earliest survivng complete Iliad manuscripts will likely touch on the theme of weaving, due to the its importance, and I want to see if, and how, the scholiasts
 recognize a connection between "women's work" weaving, and "men's work" singing epic songs.
 ## II.Literature Review/Knowledge Gap
