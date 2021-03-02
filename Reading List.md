@@ -1,7 +1,6 @@
-Reading List
+# Reading List
 Susan Edmunds, Prudence Jones, Gregory Nagy, Text & textile an introduction to wool-working for readers of Greek and Latin
 Mary Harlow and Marie-Louise Nosch, Greek and Roman Textiles and Dress, an interdisciplinary anthology
-Eleanor Dickey, An Introduction to the Composition and Analysis of Greek Prose
 Eleanot Dickey, Ancient Greek Scholarship
 Mireille Lee, Body, Dress, and Identity in Ancient Greece
 Scodel, Ruth. Listening to Homer : Tradition, Narrative, and Audience, University of Michigan Press, 2002. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/holycrosscollege-ebooks/detail.action?docID=3414793.
