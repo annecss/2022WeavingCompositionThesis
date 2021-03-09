@@ -1,20 +1,16 @@
 # Prospectus
 ## I.Introduction
--
 Scholars have long recognized the importance of weaving to the ancient world, especially as the Iliad expresses. Far from the fast fashion of today, textiles were incredibly valuable for their beauty and for the intense labor that it took to create them. Yet, despite it's importance, we have little archaeological reminants of of these esssntial materials. Scholars continue to recognize the importance of weaving and cloth, however, due it frequent mention in the surviving literature of the ancient world. A diverse collection of scholarship exists on weaving and the literature of the ancient world, most focusing on the poetic and symbolic meaning of weaving. Likewise, most scholarship dealing with weaving in Homer remains focused on its symbolic aspects. I have prevoiusly studied the earliest surviving manuscipts of Homer which contain unique marginal commentary, known as the scholia. These scholia capture the thoughts of schoalars working in the 3rd century CE in the Library of Alexandria, and are some of the earliest exisitng scholarship on Homer. Moreover, these shcolia, were often copied, compressed, and expanded on between scholilasts, nad allow current scholars to better understand how intellectual thought devloped over the centureis and among the different commentators. 
 I belive the scholia of the earliest surviving complete Iliad manuscripts will likely touch on the theme of weaving, due to the its importance, and I want to see if, and how, the scholiasts recognize a connection between "women's work" weaving, and "men's work" singing epic songs. Scholiasts frequently touch o;n the idea of peotic compostion and are very concerned about the composition of the Iliad and epic more generally, and I am particularly eagar to find whether they drawa connection between weaving and poetic compostion.
 ## II.Literature Review/Knowledge Gap
--
 I have already watched and reviewed the video by Greogry Nagy and Prudence Jones, which discusses the symbolism of textiles in the ancient world.
 I am currently reading the monograph by Elanor Dickey, Ancient Greek Scolarship, which offers an overview into the scholia and biographical information about the scholiasts.
 My scholarship will fill the existing gap of work dealing with weaving as a topic in the scholia. The scholia as a whole have only recently come to the attention of classcists and digital humanists, thanks to recent digitization efforts. To the best of my knowledge, there is no existing scholarship focused on specific topics within the scholia, much less weaving.
 ## III.Primary Sources
 I will work with The Upsilon 1.1, Venetus B, and Escorial Manuscripts, which are freely available thanks to the Homer Multitext project. These 10th and 11th century manuscripts were copied by Byzantine scribes and survived in various monasteries across Europe. I, however, will not require the physical editions of these manuscripts and will instead work with the high resolution images provided under a creative commons license by the Homer Multitext project. As a member of the Homer Multitext Project, I have three years of experience working with these manuscripts. Additionally, I have previously taken Homer and am now at the advanced level in Ancient Greek, so I am able to work with these scholia in their original language.
 ## IV.Methodology
--
 I will use the high resolution images of these manuscripts provided by the HMT image citation tool. I will use julia and pluto notebooks to edit diplomatic versions of these manuscripts and their scholia. To compose my analysis model, I will use jupyter notebooks. All of these programs are free and open-access.
 ## V.Chapter outline
--
 * Chapter One: Abstract and Project Overview
 * Chapter 3: Literature Review of weaving in the Iliad
 * Chapter 4: List of weaving and epic terms I used
@@ -22,7 +18,6 @@ I will use the high resolution images of these manuscripts provided by the HMT i
 * Chapter 6: Text model details
 * Chapter 7: Results and further directions for prroject
 ## VI.Timeline
--
 My first task as a researcher will be to read closely the sections of the Iliad dealing with weaving, and accumulate a working list of weaving and poetic vocabulary. I will then read the scholia of those sections in the Homeric manuscripts.
 Next, I will edit those sections and their accompanying scholia into digital editions of the 10th and 11th century manuscripts. From there, I will then build different textual models with topic modelling and word vectors.
 I will look primarily for two clusters of words, those dealing with weaving, and those dealing with epic composition.
