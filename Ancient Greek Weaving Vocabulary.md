@@ -1,11 +1,11 @@
-#Ancient Greek Weaving Vocaulary
+# Ancient Greek Weaving Vocaulary
 
-##Verbs
+## Verbs
 
 ὑφαίνω
 ἐμπάσσω
 ποικίλλω
-##Nouns
+## Nouns
 θρόνον
-##Other
+## Other
 πορφύρεος
