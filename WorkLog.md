@@ -8,5 +8,6 @@ http://www.homermultitext.org/facsimiles/venetus-a/33v/
 -work on adding context to Iliad passages
 -create ongoing vocab list
 -Review different manuscripts: omega, townley, geneva 44 (not covered by erbse, ventetus a, vb, upsilon, florentine
-How do we select what to read? Unfair advantage to the Venetus A, which has complete edition
-Methodology
+How do we select what to read? Unfair advantage to the Venetus A, which has complete edition?
+Methodology? starting with VA and going straight through? or branching out to check every scholia?
+Next Meeting: vocab, questions, annotated scholia
