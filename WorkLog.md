@@ -7,3 +7,4 @@ http://www.homermultitext.org/digital/scholia/diplomatic/
 http://www.homermultitext.org/facsimiles/venetus-a/33v/
 -work on adding context to Iliad passages
 -create ongoing vocab list
+-Review different manuscripts: omega, townley, geneva 44 (not covered by erbse, ventetus a, vb, upsilon, florentine
