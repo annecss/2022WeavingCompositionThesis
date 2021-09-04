@@ -11,3 +11,4 @@ http://www.homermultitext.org/facsimiles/venetus-a/33v/
 How do we select what to read? Unfair advantage to the Venetus A, which has complete edition?
 Methodology? starting with VA and going straight through? or branching out to check every scholia?
 Next Meeting: vocab, questions, annotated scholia
+At this meeting, we discussed the overall plan for the project and the specific work I will need to have prepared for next week. The most important work is to go through the Venetus A and document all scholia related to the three main weaving passages in the Iliad (3.125-130, 22.440-450). There are of course more mentions of weaving, but I think these are the most essential passages. Of course, that brings us to the issue of how to continue with my workflow. Do I focus entirely on the VA? Or start branching out to other manuscripts, and if so, which ones?
