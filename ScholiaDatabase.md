@@ -12,12 +12,17 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  https://www.homermultitext.org/facsimiles/venetus-a/44v/
  !(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044VN_0546@0.22641857,0.16334716,0.64830508,0.02821577)
  πολύ δακρυν ἅρηα εἶτα ἀπο ἄλλης ἀρχῆς . ἀσύνδετα γὰρ πρὸς τὰ ἐπάνω· διὸ τελεία στικτέον· ὑποστικτέον δὲ ἐν ὑποκρίσει ἀνταποδοτικῆς οὔσης τῆς περιόδου ὑποτακτικοῦ δὲ τοῦ προτέρου οι τοῦ δὲ δευτέρου ἀντωνυμίαν δηλοῦντος ⁑
+ # Book 14
+ ## 14.179
+ http://www.homermultitext.org/facsimiles/venetus-a/184r/
+ http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184RN_0185@0.16101695,0.10995851,0.61514370,0.03319502
+ ἔξυσεν : ** ἐκέρκισεν ξύουσι γὰρ τὴν κρόκην προς τὸ πυκνωθῆναι . οἱ δὲ ἐλέανεν ἀπο μεταφορᾶς τῶν ξύλων· οἱ δὲ ἀντι τοῦ ἔγναψεν μετα τὸ ὑφανθῆναι :
 # Book 22
 ## 22.441:
 http://www.homermultitext.org/facsimiles/venetus-a/291r/
 !(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6116,0.2772,0.1879,0.1285)
- ποικίλ’ έπασσεν· πάσσειν Κύπριοι τὸ ποικίλλειν ἀφ οῦ παστὸς ὁ θάλαμος ⁑
- PROBLEM: the text here looks totally different from what the image shows
+ποικίλ’ έπασσεν· πάσσειν Κύπριοι τὸ ποικίλλειν ἀφ οῦ παστὸς ὁ θάλαμος ⁑
+PROBLEM: the text here looks totally different from what the image shows
  ## 22.445:
  http://www.homermultitext.org/facsimiles/venetus-a/291r/
  ! (http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6067,0.4239,0.1872,0.03748)
