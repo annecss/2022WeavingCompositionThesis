@@ -2,7 +2,7 @@
 # Book 3
 ## 3.126:
 https://www.homermultitext.org/facsimiles/venetus-a/44r/
-![scholia](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044RN_0045@0.15364775,0.73706777,0.53610906,0.03112033)
+(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044RN_0045@0.15364775,0.73706777,0.53610906,0.03112033)
  δίπλακα μαρμαρέην καὶ αἱ Ἀριστάρχου καὶ ἡ Ζηνοδότου καὶ ἡ Ἀριστοφάνους πορφυρέην εἶχον , οὐ μαρμαρέην καὶ ἐστι πρεπωδέστερον καὶ γὰρ ἐπι τῶν νυμφῶν φάρε’ ὑφαίνουσι ἀλιπόρφυρα ⁑
  ## 3.128:
  https://www.homermultitext.org/facsimiles/venetus-a/44v/
@@ -17,6 +17,15 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
 http://www.homermultitext.org/facsimiles/venetus-a/291r/
 !(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6116,0.2772,0.1879,0.1285)
  ποικίλ’ έπασσεν· πάσσειν Κύπριοι τὸ ποικίλλειν ἀφ οῦ παστὸς ὁ θάλαμος ⁑
- PROBLEM: the text here looks totally different from what the image shows?
+ PROBLEM: the text here looks totally different from what the image shows
+ ## 22.445:
+ http://www.homermultitext.org/facsimiles/venetus-a/291r/
+ ! (http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6067,0.4239,0.1872,0.03748)
+  ἡδ’ αῦτις δμωῇσι αὔξει τὸ πάθ , τοσοῦτον γὰρ ἀπέχει τοῦ ἐννοεῖν τί τῶν συμβεβηκότων ὡς καὶ λουτρὰ τῷ ἀνδρὶ παρασκευάζειν μονονουχὶ ὁρῶσα τὸν Ἕκτορα διὸ καὶ ἐπεφώνησεν ὁ ποιητὴς τὸ  νηπίη οὐδ’ ἐνόησεν ὥσπερ ἐλεῶν τὴν ἄγνοιαν αὐτῆς ⁑
+ ## 22.447:
+ http://www.homermultitext.org/facsimiles/venetus-a/291r/
+ http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6078,0.4019,0.1907,0.03721
+ κωκυτοῦ δ’ ήκουσεν . ἀντι τοῦ θρήνου ήκουσεν ἐζήτηται δὲ πῶς τοσοῦτου γενομένου θορύβου μόλις Ἀνδρομάχη προῆλθεν . φασὶ δὲ ὡς ὅτι ἡ προτέρα τοῦ ἀνδρὸς ἐπίπληξις ἡ εν τῆ Ζ σωφρονεῖν αὐτὴν ἀναγκάζει ⁑
 #  Book 24
 ## 24.47:
+no facsimile pages?
