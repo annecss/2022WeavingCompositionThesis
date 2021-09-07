@@ -3,6 +3,7 @@ http://www.homermultitext.org/digital/scholia/diplomatic/
 υφαιν
 
 8/31/2021
+
 -developing critical scholia list
 http://www.homermultitext.org/facsimiles/venetus-a/33v/
 -work on adding context to Iliad passages
@@ -14,4 +15,5 @@ Next Meeting: vocab, questions, annotated scholia
 At this meeting, we discussed the overall plan for the project and the specific work I will need to have prepared for next week. The most important work is to go through the Venetus A and document all scholia related to the three main weaving passages in the Iliad (3.125-130, 22.440-450). There are of course more mentions of weaving, but I think these are the most essential passages. Of course, that brings us to the issue of how to continue with my workflow. Do I focus entirely on the VA? Or start branching out to other manuscripts, and if so, which ones?
 
 9/7/21
+
 -fixing mechanical issue: spaces, add .md to files
