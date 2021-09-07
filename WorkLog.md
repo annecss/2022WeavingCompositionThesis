@@ -16,4 +16,6 @@ At this meeting, we discussed the overall plan for the project and the specific 
 
 9/7/21
 
-- fixing mechanical issue: spaces, add .md to files
+- fixed mechanical issue: spaces, add .md to files
+- need to review Iliad 24, as well as do a thorough vocabulary search
+- For next tuesday, I need to (1) find passages in Venetus B and see if anything is relevant to the Venetus A commentary and (2) I need to write up an initial commentary on these three passages on place of act of weaivn gand woven garment in their parituclar passage, and what scholiasts chooses to explain/comment on.
