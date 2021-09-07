@@ -4,11 +4,11 @@ http://www.homermultitext.org/digital/scholia/diplomatic/
 
 8/31/2021
 
--developing critical scholia list
+- developing critical scholia list
 http://www.homermultitext.org/facsimiles/venetus-a/33v/
--work on adding context to Iliad passages
--create ongoing vocab list
--Review different manuscripts: omega, townley, geneva 44 (not covered by erbse, ventetus a, vb, upsilon, florentine
+- work on adding context to Iliad passages
+- create ongoing vocab list
+- Review different manuscripts: omega, townley, geneva 44 (not covered by erbse, ventetus a, vb, upsilon, florentine
 How do we select what to read? Unfair advantage to the Venetus A, which has complete edition?
 Methodology? starting with VA and going straight through? or branching out to check every scholia?
 Next Meeting: vocab, questions, annotated scholia
@@ -16,4 +16,4 @@ At this meeting, we discussed the overall plan for the project and the specific 
 
 9/7/21
 
--fixing mechanical issue: spaces, add .md to files
+- fixing mechanical issue: spaces, add .md to files
