@@ -5,7 +5,10 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
 (http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044RN_0045@0.15364775,0.73706777,0.53610906,0.03112033)
  δίπλακα μαρμαρέην καὶ αἱ Ἀριστάρχου καὶ ἡ Ζηνοδότου καὶ ἡ Ἀριστοφάνους πορφυρέην εἶχον , οὐ μαρμαρέην καὶ ἐστι πρεπωδέστερον καὶ γὰρ ἐπι τῶν νυμφῶν φάρε’ ὑφαίνουσι ἀλιπόρφυρα ⁑
  -add ekdosis (editions
+ 
  -καὶ γὰρ (evidence)
+ 
+ -πρεπωδέστερον, πορφυρέην, μαρμαρέην symbolism of color and cloth
  ## 3.128:
  https://www.homermultitext.org/facsimiles/venetus-a/44v/
 !(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044VN_0546@0.22918202,0.11147994,0.64775239,0.06058091)
@@ -19,6 +22,20 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  http://www.homermultitext.org/facsimiles/venetus-a/184r/
  http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184RN_0185@0.16101695,0.10995851,0.61514370,0.03319502
  ἔξυσεν : ** ἐκέρκισεν ξύουσι γὰρ τὴν κρόκην προς τὸ πυκνωθῆναι . οἱ δὲ ἐλέανεν ἀπο μεταφορᾶς τῶν ξύλων· οἱ δὲ ἀντι τοῦ ἔγναψεν μετα τὸ ὑφανθῆναι :
+ 
+ -θάλαμον (in her private chamber)
+ 
+ -ἔπλεξε
+ 
+ -ἀμβροσίη
+ 
+ -ἑανός can be used to describe linen
+ 
+ -ἀσκέω
+ 
+ -ξύω
+ 
+ -δαίδαλος
 # Book 22
 ## 22.441:
 http://www.homermultitext.org/facsimiles/venetus-a/291r/
