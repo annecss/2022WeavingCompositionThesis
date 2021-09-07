@@ -4,6 +4,8 @@
 https://www.homermultitext.org/facsimiles/venetus-a/44r/
 (http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044RN_0045@0.15364775,0.73706777,0.53610906,0.03112033)
  δίπλακα μαρμαρέην καὶ αἱ Ἀριστάρχου καὶ ἡ Ζηνοδότου καὶ ἡ Ἀριστοφάνους πορφυρέην εἶχον , οὐ μαρμαρέην καὶ ἐστι πρεπωδέστερον καὶ γὰρ ἐπι τῶν νυμφῶν φάρε’ ὑφαίνουσι ἀλιπόρφυρα ⁑
+ -add ekdosis (editions
+ -καὶ γὰρ (evidence)
  ## 3.128:
  https://www.homermultitext.org/facsimiles/venetus-a/44v/
 !(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044VN_0546@0.22918202,0.11147994,0.64775239,0.06058091)
