@@ -27,3 +27,6 @@ At this meeting, we discussed the overall plan for the project and the specific 
 Helen occupies an complicated position as a weaver and foreign woman in the court of Priam. She is not a slave, rather, the scene of her weaving shows her in a place of high honor.
 Athena's weaving, told through her scene with Hera, shows her own divine power. She is unique in that her weaving is specified as a gift for a particular person, Hera.
 Finally, Andromache's weaving reveals the complex feelings she cannot express and serves as a multi-layered portent of the terrible future that presses in on her from outside the walls that protect her.
+
+-Bibtex, zotero
+-Task: revise Venetus A pages of note, Prof. Smith will set up repository on Thursday
