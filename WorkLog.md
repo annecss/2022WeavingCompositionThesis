@@ -18,12 +18,12 @@ At this meeting, we discussed the overall plan for the project and the specific 
 
 - fixed mechanical issue: spaces, add .md to files
 - need to review Iliad 24, as well as do a thorough vocabulary search
-- For next tuesday, I need to (1) find passages in Venetus B and see if anything is relevant to the Venetus A commentary and (2) I need to write up an initial commentary on these three passages on place of act of weaivn gand woven garment in their parituclar passage, and what scholiasts chooses to explain/comment on. Summarize compare contrast of the different scenes of weaving and woven material, what the scholiasts want to think about
+- For next tuesday, I need to (1) find passages in Venetus B and see if anything is relevant to the Venetus A commentary and (2) I need to write up an initial commentary on these three passages on place of act of weaving and woven garment in their parituclar passage, and what scholiasts chooses to explain/comment on. Summarize compare contrast of the different scenes of weaving and woven material, what the scholiasts want to think about
 -update vocabulary list
 
 9/13/21
 
 -Weaving is a standard female activity in the Iliad. One expects to see men fighting or arguing, and one expects to see women weaving or crying. But what these women are weaving is by no means generic. Rather, three instances of female weaving, Helen in Book 3, Athena in Book 14, and Andromache in book 24 , reveal in-depth information into the characters' status, emotions, and preeocupations while the are narratively and nominatively silent. The scholia in Venetus serve to further expand on these messages physically coded into the womens' handicrafts.
 Helen occupies an complicated position as a weaver and foreign woman in the court of Priam. She is not a slave, rather, the scene of her weaving shows her in a place of high honor.
-Athena's weaving, told through her scene with Hera, shows her own divine power.
+Athena's weaving, told through her scene with Hera, shows her own divine power. She is unique in that her weaving is specified as a gift for a particular person, Hera.
 Finally, Andromache's weaving reveals the complex feelings she cannot express and serves as a multi-layered portent of the terrible future that presses in on her from outside the walls that protect her.
