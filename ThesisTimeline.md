@@ -1,5 +1,7 @@
-Timeline
-2021
+# Timeline
+
+## 2021
+
 February
 Tuesday 9th: Initial meeting with Prof. Smith
 UNSCHEDULED: Research appt with Jenn
@@ -14,7 +16,9 @@ September 7: Critical Scholia List
 October
 November
 December
-2022
+
+## 2022
+
 January
 February
 March
