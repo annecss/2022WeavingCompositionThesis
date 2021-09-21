@@ -34,3 +34,20 @@ Finally, Andromache's weaving reveals the complex feelings she cannot express an
 9/20/21
 
 -Nagy notes that the θρόνα Andromache sprinkles in could refer to flowers, or, more intriguingly, to love-charms. If they are these charms, that could be a tie-in to Hector.
+
+-citing orthographic system: not enough to say something is digital
+-they way a text is encoded should express the semantics of the text so that it can be tokenized
+-first token of Iliad: μηνιν, a leixcal token
+-funny fishtail: punctuation token, even if it looks like a comma plus semicolon, it just one token
+-tokens are not just charcters, but are always classified
+-for line of Iliad: create tokenized edition, add another level to citation hierarchy VA1.1.1: μηνιν
+analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token TLG012-Homeric poetry 1-Iliad
+.msa 
+-alt edition generated automatically: tlg12.tlgoo1.msadiplomatic, scribal for things like sic/corr
+-we have: orginal diplomatic edition, scribal version(acknowledigng scribes version, like with replaced words, or offering two readings(we take on on line as diplomatic, superscript as scirbal alternative)) modern editorial normalization(acknowleding unintellagible passages///misspellings, our own readings, connecting byzantine orthogrpahy with normal readings)
+-encoding multivalent (multiple possible readings) documents and generating univocal editions
+-strong feelings about using tei to get to something else
+-we use tei to encode the texts and get the univocal editions
+-can use univocal editoins reduce to text with no markup and cts urn
+- we have two parellel vers of texts with same passage citations, but different version components
+- urn:cts:greekLit:tlg0012: 3rd compoenent name space: 4th work, 5th passage(cna be empty, but can't leave out end colon
