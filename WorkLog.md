@@ -51,3 +51,12 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -can use univocal editoins reduce to text with no markup and cts urn
 - we have two parellel vers of texts with same passage citations, but different version components
 - urn:cts:greekLit:tlg0012: 3rd compoenent name space: 4th work, 5th passage(cna be empty, but can't leave out end colon
+- urn:cts:greekLit:tlg5026:msAim.hmt:3- all intermarginal scholia in book 3 of HMT's Venetus a 
+- 3.51r_1-book 3 51 recto scholia 1
+- -3.209.comment (numbered scholia) 3 lexical tokens, 1 punction token
+- orthographic system lets us tokenize our text
+- urn:cts:greekLit:tlg5026.msAint.tokens:3.209.comment.1 - 
+- orthogrpyhy, og that tokenizes and class, once youve cl and tk you can apply a parsing system
+- -we need the analytical corpus:citable corpus,w orthogrpahic system, and parsing system, must be coordinated
+- if you have all 3, you can drop in one line EVERYTHING
+- -the NICE tokenized edition
