@@ -30,3 +30,7 @@ Finally, Andromache's weaving reveals the complex feelings she cannot express an
 
 -Bibtex, zotero
 -Task: revise Venetus A pages of note, Prof. Smith will set up repository on Thursday
+
+9/20/21
+
+-Nagy notes that the θρόνα Andromache sprinkles in could refer to flowers, or, more intriguingly, to love-charms. If they are these charms, that could be a tie-in to Hector.
