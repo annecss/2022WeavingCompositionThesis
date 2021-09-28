@@ -60,3 +60,7 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 - -we need the analytical corpus:citable corpus,w orthogrpahic system, and parsing system, must be coordinated
 - if you have all 3, you can drop in one line EVERYTHING
 - -the NICE tokenized edition
+
+
+-9/28/21
+-check with Rose about pushing from the lab computer
