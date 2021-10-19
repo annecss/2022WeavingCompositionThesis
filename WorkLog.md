@@ -67,3 +67,14 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 
 -10/18/21
 -Made some minor corrections and improvements, organized the scholia into a folder on the presumption that we will analyze VB along with VA
+
+
+-10/19/21
+-Assignment: annotate all of scholia and vocabulary
+-start using scholia as examples to build ideas off of
+-write introduction to scholia and the methods of analysis
+-tradtional close reading with different analyses built on top
+-jumping from tech chosen passages to close reading to tech enabled deeper analysis
+- 400 words
+
+-
