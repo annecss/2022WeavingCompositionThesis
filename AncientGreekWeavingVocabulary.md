@@ -13,11 +13,15 @@ http://folio2.furman.edu/lsj/ ὑφαίνω urn:cite2:hmt:lsj.chicago_md:n109779
 
 -ῥάπτω
 ## Nouns
+
 -θρόνον
+-urn:cite2:hmt:lsj.chicago_md:n49203
 
 -ἱστός
+-urn:cite2:hmt:lsj.chicago_md:n51269
 
 -κερκίς
+-urn:cite2:hmt:lsj.chicago_md:n51269
 
 -μνῆμα
 
