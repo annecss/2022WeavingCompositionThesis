@@ -76,5 +76,4 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -tradtional close reading with different analyses built on top
 -jumping from tech chosen passages to close reading to tech enabled deeper analysis
 - 400 words
-
--
+- read the Prof. Smith' draft on topic modelling and annotate, incorporate into essay assignment
