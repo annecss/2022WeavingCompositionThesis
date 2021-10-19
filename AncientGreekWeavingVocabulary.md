@@ -3,30 +3,30 @@ http://localhost:1234/edit?id=0e74a950-157b-11ec-19ed-69e03521cad2
 
 ## Verbs
 
--ὑφαίνω
-http://folio2.furman.edu/lsj/ ὑφαίνω urn:cite2:hmt:lsj.chicago_md:n109779
+### ὑφαίνω
+http://folio2.furman.edu/lsj/ ὑφαίνω urn:cite2:hmt:lsj.chicago_md:n109779 , definition/comment, link to an example scholion
 
--ἐμπάσσω
+### ἐμπάσσω
 -urn:cite2:hmt:lsj.chicago_md:n34243
 
--ποικίλλω
+### ποικίλλω
 
--ῥάπτω
+### ῥάπτω
 ## Nouns
 
--θρόνον
+### θρόνον
 -urn:cite2:hmt:lsj.chicago_md:n49203
 
--ἱστός
+### ἱστός
 -urn:cite2:hmt:lsj.chicago_md:n51269
 
--κερκίς
+### κερκίς
 -urn:cite2:hmt:lsj.chicago_md:n51269
 
--μνῆμα
+### μνῆμα
 
--ῥαψῳδός
+### ῥαψῳδός
 
--ὕμνον
+### ὕμνον
 ## Adjectives
--πορφύρεος
+### πορφύρεος
