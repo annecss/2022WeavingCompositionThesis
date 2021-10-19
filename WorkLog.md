@@ -64,3 +64,6 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 
 -9/28/21
 -check with Rose about pushing from the lab computer
+
+-10/18/21
+-Made some minor corrections and improvements, organized the scholia into a folder on the presumption that we will analyze VB along with VA
