@@ -7,7 +7,7 @@ http://localhost:1234/edit?id=0e74a950-157b-11ec-19ed-69e03521cad2
 http://folio2.furman.edu/lsj/ ὑφαίνω urn:cite2:hmt:lsj.chicago_md:n109779
 
 -ἐμπάσσω
--
+-urn:cite2:hmt:lsj.chicago_md:n34243
 
 -ποικίλλω
 
