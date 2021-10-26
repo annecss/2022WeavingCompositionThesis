@@ -13,6 +13,7 @@ http://localhost:1234/edit?id=0e74a950-157b-11ec-19ed-69e03521cad2
 
 ### ῥάπτω
 urn:cite2:hmt:lsj.chicago_md:n92189
+
 I. sew together, stich  II. devise, contrive, plot
 ## Nouns
 
