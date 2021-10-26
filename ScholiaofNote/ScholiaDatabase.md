@@ -1,4 +1,5 @@
 # Venetus A
+scholia number, facsimile link to page, link to urn, text, notes
 # Book 3
 ## 3.126:
 https://www.homermultitext.org/facsimiles/venetus-a/44r/
