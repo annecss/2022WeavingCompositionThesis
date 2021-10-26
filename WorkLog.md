@@ -77,3 +77,12 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -jumping from tech chosen passages to close reading to tech enabled deeper analysis
 - 400 words
 - read the Prof. Smith' draft on topic modelling and annotate, incorporate into essay assignment
+
+
+10/26/21
+-check out Schiaroni book
+-next writing assignment: why did I choose these three passages?
+-close reading of three passages
+-if not all three, define how i got those three, summarize them, compare and contrast first and last
+-need to have substantial words by thanksgiving
+-pick out a scholion for the 13th, (athena) will review with Prof. Smith next tuesday
