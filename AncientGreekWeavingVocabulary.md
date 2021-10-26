@@ -4,7 +4,7 @@ http://localhost:1234/edit?id=0e74a950-157b-11ec-19ed-69e03521cad2
 ## Verbs
 
 ### ὑφαίνω
-http://folio2.furman.edu/lsj/ ὑφαίνω urn:cite2:hmt:lsj.chicago_md:n109779 , definition/comment, link to an example scholion
+ urn:cite2:hmt:lsj.chicago_md:n109779 , definition/comment, link to an example scholion
 
 ### ἐμπάσσω
 -urn:cite2:hmt:lsj.chicago_md:n34243
@@ -12,6 +12,8 @@ http://folio2.furman.edu/lsj/ ὑφαίνω urn:cite2:hmt:lsj.chicago_md:n109779
 ### ποικίλλω
 
 ### ῥάπτω
+urn:cite2:hmt:lsj.chicago_md:n92189
+I. sew together, stich  II. devise, contrive, plot
 ## Nouns
 
 ### θρόνον
