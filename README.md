@@ -9,3 +9,5 @@ http://www.homermultitext.org/digital/scholia/diplomatic/
 
 ## Notebooks Used
 https://github.com/HCMID/scholia-transmission/tree/main/nbs
+## Useful Links
+ -Venetus A Famcsimile: https://homermultitext.github.io/facsimiles/venetus-a/12r/ 
