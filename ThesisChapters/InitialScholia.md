@@ -1,7 +1,8 @@
 # An Initial Comparision of three key passages in the Iliad dealing with weaving and they're accompanying scholia.
-## Helen weaves a tragedy
+## Helen weaves a tragedy 3.125-128
 The color theory is essntail here.
-## Athena and the best garment ever
-## Andromache avoids the outside world
+## Athena and the best garment ever 14.178-181
+This passage offers valuable information into the constrution and use of garments. 
+## Andromache avoids the outside world 22. 440-448
 Key langugue is repated from the Helen scene in book 3. 
 ## Key Connections
