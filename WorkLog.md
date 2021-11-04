@@ -86,3 +86,10 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -if not all three, define how i got those three, summarize them, compare and contrast first and last
 -need to have substantial words by thanksgiving
 -pick out a scholion for the 13th, (athena) will review with Prof. Smith next tuesday
+
+11/4/21
+-expand  comments on three passages and scholia
+-look at iliad passage and what shcolion has to say
+-why are the scholiasts commenting on these passages?
+-vocaub examples
+-pick athena scholia for 13th 14.179
