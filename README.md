@@ -13,3 +13,5 @@ https://github.com/HCMID/scholia-transmission/tree/main/nbs
  -Venetus A Famcsimile: https://homermultitext.github.io/facsimiles/venetus-a/12r/
  
  -Lexicon: http://folio2.furman.edu/lsj/
+
+-Diplomatic scholia: http://www.homermultitext.org/digital/scholia/diplomatic/
