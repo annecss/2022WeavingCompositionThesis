@@ -48,3 +48,16 @@ I. hymn,ode in praise of the gods or heroes
 ### πορφύρεος
 -urn:cite2:hmt:lsj.chicago_md:n85837
 I. heaving, surging II. of blood gushing, of death onrushing III. of human complexion, bright-red, rosy, flushing IV. purple
+-θάλαμον (in her private chamber)
+
+-ἔπλεξε
+
+-ἀμβροσίη
+
+-ἑανός can be used to describe linen
+
+-ἀσκέω
+
+-ξύω
+
+-δαίδαλος
