@@ -93,3 +93,5 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -why are the scholiasts commenting on these passages?
 -vocaub examples
 -pick athena scholia for 13th 14.179
+-what makes agarmen t spectacular?, scholia as etymology and eplanatio
+-kroken vocab list  crossthreads
