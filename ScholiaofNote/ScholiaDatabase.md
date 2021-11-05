@@ -22,6 +22,7 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  ## 14.179
  http://www.homermultitext.org/facsimiles/venetus-a/184r/
  http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184RN_0185@0.16101695,0.10995851,0.61514370,0.03319502
+ urn:cite2:hmt:vaimg.2017a:VA184RN_0185
  ἔξυσεν : ** ἐκέρκισεν ξύουσι γὰρ τὴν κρόκην προς τὸ πυκνωθῆναι . οἱ δὲ ἐλέανεν ἀπο μεταφορᾶς τῶν ξύλων· οἱ δὲ ἀντι τοῦ ἔγναψεν μετα τὸ ὑφανθῆναι :
  
  -θάλαμον (in her private chamber)
