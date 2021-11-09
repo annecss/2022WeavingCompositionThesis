@@ -78,7 +78,9 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 - 400 words
 - read the Prof. Smith' draft on topic modelling and annotate, incorporate into essay assignment
 
-
+11/8
+-get athena scholia ready
+-BRAINDUMP
 10/26/21
 -check out Schiaroni book
 -next writing assignment: why did I choose these three passages?
