@@ -25,7 +25,5 @@ urn:cite2:hmt:vaimg.2017a:VA184RN_0185@0.18769055,0.24287690,0.01600610,0.008990
 ### Notes
 
 - rare technical vocaublary
-
--demonstration of different functions of different scholia
-
--revelation of information not in "standard" text
+- -demonstration of different functions of different scholia
+- -revelation of information not in "standard" text
