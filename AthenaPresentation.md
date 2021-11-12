@@ -1,5 +1,6 @@
 ## The Athena Scholia Cluster
 Hera has decided to seduce her husband, Zeus, and convince him to let the Trojans, her favorites, win. Lines 159-223 describe Hera's process of adorning herself. In lines 178-180, Hera puts on a beautiful robe, crafted by the goddess Athena. This line and set of scholia describes the creation of that robe in more detail.
+
 http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184RN_0355@0.181,0.2119,0.411,0.0248
 
 ### Line 14.179
