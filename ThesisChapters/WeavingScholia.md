@@ -15,7 +15,7 @@ There is also an interior scholia, indiciated by a diple.
 -oti alludes to critical sign
 -προς plus infinitive = purpose
 οἱ δὲ - but others say
-ἔγναψεν-technical term, depilling, getting rid of stray fibers
+ἔγναψεν-technical term, depilling, getting rid of stray fibers. This term is not in the LSJ.
 ἀντι-instead of 
 ἐλέανεν -she smoothed, A metaphor from woodwork
 ## Andromache avoids the future 22.44
