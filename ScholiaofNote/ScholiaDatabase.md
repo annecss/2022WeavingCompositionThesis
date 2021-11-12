@@ -38,6 +38,11 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  -ξύω
  
  -δαίδαλος
+ 
+ ## 14.214
+ http://www.homermultitext.org/facsimiles/venetus-a/184v/
+ http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768
+ 
 # Book 22
 ## 22.441:
 http://www.homermultitext.org/facsimiles/venetus-a/291r/
