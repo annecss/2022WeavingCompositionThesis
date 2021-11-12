@@ -54,7 +54,7 @@
 - I. heaving, surging II. of blood gushing, of death onrushing III. of human complexion, bright-red, rosy, flushing IV. purple
 -θάλαμον (in her private chamber)
 
-### Unsorted
+## Unsorted
 
 -ἔγναψεν
 
