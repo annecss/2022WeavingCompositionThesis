@@ -18,6 +18,9 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  https://www.homermultitext.org/facsimiles/venetus-a/44v/
  !(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA044VN_0546@0.22641857,0.16334716,0.64830508,0.02821577)
  πολύ δακρυν ἅρηα εἶτα ἀπο ἄλλης ἀρχῆς . ἀσύνδετα γὰρ πρὸς τὰ ἐπάνω· διὸ τελεία στικτέον· ὑποστικτέον δὲ ἐν ὑποκρίσει ἀνταποδοτικῆς οὔσης τῆς περιόδου ὑποτακτικοῦ δὲ τοῦ προτέρου οι τοῦ δὲ δευτέρου ἀντωνυμίαν δηλοῦντος ⁑
+ ## 3.212
+ # Book 6
+ ## 6.293
  # Book 14
  ## 14.179
  http://www.homermultitext.org/facsimiles/venetus-a/184r/
@@ -60,4 +63,5 @@ PROBLEM: the text here looks totally different from what the image shows
 # Book 23
 ## 23.760
 #  Book 24
+## 24.448
 
