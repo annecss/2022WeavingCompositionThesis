@@ -57,5 +57,7 @@ PROBLEM: the text here looks totally different from what the image shows
  http://www.homermultitext.org/facsimiles/venetus-a/291r/
  http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6078,0.4019,0.1907,0.03721
  κωκυτοῦ δ’ ήκουσεν . ἀντι τοῦ θρήνου ήκουσεν ἐζήτηται δὲ πῶς τοσοῦτου γενομένου θορύβου μόλις Ἀνδρομάχη προῆλθεν . φασὶ δὲ ὡς ὅτι ἡ προτέρα τοῦ ἀνδρὸς ἐπίπληξις ἡ εν τῆ Ζ σωφρονεῖν αὐτὴν ἀναγκάζει ⁑
+# Book 23
+## 23.760
 #  Book 24
 
