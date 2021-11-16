@@ -111,4 +111,8 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 - massive commentrary on homeric vocabulary/usage
 -check ufh--apollonian in origin?
 - establish bibliographic database
-- -write abstracts for everything I read--use zotero
+- -write abstracts for everything I read--use zotero, export to bibtec, commit to repository
+- -look at template formats
+- -check abstratcs against library
+- discuss methodology of wscholia, why we start with iliad context, translate anad intereprate in relation to the iliad
+- -what are the form of our observations
