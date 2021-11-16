@@ -110,3 +110,5 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 - last step: kriseis/judgement---should passage be removed?
 - massive commentrary on homeric vocabulary/usage
 -check ufh--apollonian in origin?
+- establish bibliographic database
+- -write abstracts for everything I read--use zotero
