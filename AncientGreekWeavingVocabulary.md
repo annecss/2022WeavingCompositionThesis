@@ -30,7 +30,7 @@
 
 ### ἱστός
 - urn:cite2:hmt:lsj.chicago_md:n51269
-- I. mast, rod II. beam of an upright loom III. warp fixed to the beam, web itself
+- I. mast, rod II. beam of an upright loom III. warp fixed to the beam, web itself(the product or the technology)
 
 ### κερκίς
 - urn:cite2:hmt:lsj.chicago_md:n51269
