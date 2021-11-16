@@ -97,3 +97,16 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -pick athena scholia for 13th 14.179
 -what makes agarmen t spectacular?, scholia as etymology and eplanatio
 -kroken vocab list  crossthreads
+
+11/16/21
+-Write scholia translations
+-read apollonious sophius article
+- comments on vocabulary, lister alphabetically
+- important source for interlinear scholia
+- techne grammatike-art of the scholar of letters
+- grammatikos-literary scholar
+- Dionysius, pupil of aristarchus: list of activities of literary scholar, correct vocalization
+- intermediate step: glossae, explanation of language (where Apollonius the sophist worked)
+- last step: kriseis/judgement---should passage be removed?
+- massive commentrary on homeric vocabulary/usage
+-check ufh--apollonian in origin?
