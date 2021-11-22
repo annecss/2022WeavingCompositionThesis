@@ -120,4 +120,7 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -work on comparison
 -churik aritcle
 -translations and organizaiton
+-22.441
+-urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6104,0.2830,0.1872,0.1549
+-aytpical diple in scholion matching diple on iliad line, very rare
 
