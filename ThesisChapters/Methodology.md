@@ -15,3 +15,8 @@ The next step is to analyze the lemma. it is the reference point for all syntact
 -can we isolate distinctly aristarchan scholia?
 -maybe focus on different channels, multiple traditions, within and outside of Aristarchan material
 -only 80 percent of VA Scholia are included in erbse's edition, real issue for scholars
+
+# Churik notes
+- Stephen ramsay deformance???
+- ORCA model
+- democritus: compiled a dictionary of glosses
