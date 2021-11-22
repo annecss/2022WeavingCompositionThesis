@@ -116,3 +116,8 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 - -check abstratcs against library
 - discuss methodology of wscholia, why we start with iliad context, translate anad intereprate in relation to the iliad
 - -what are the form of our observations
+
+-work on comparison
+-churik aritcle
+-translations and organizaiton
+
