@@ -47,6 +47,9 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768
  
 # Book 22
+## 22. 440
+ἀλλ' ἥ γ' ἱ̈στὸν ὕφαινε. 
+οτι ασυμπαθης η ανδρομαχῃ εν τοσουτω θορυβῳ κατ οικον ατρεμουσα και ταυτα την αχιλλεως εφοδον ουκ αγνοουσα , εοικεν ουν φησιν ο αρισταρχ προκαταχρησαμενος ο ποιητης τῳ της ανδρομαχης προσωπω κατα την προς εκτορος κοινολογιαν απεσχισθαι νυν του προσωπου 
 ## 22.441:
 http://www.homermultitext.org/facsimiles/venetus-a/291r/
 !(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6116,0.2772,0.1879,0.1285)
