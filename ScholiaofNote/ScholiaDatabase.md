@@ -47,7 +47,8 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768
  
 # Book 22
-## 22. 440
+## 22. 440 crucial scene in book 22
+##how do scholaists read 291r in venetus a, what problems does it pose for 10th cenutyr reader, what do thehy pick up on, 
 http://www.homermultitext.org/facsimiles/venetus-a/291r/
 http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6116,0.2772,0.1879,0.1285
 ἀλλ' ἥ γ' ἱ̈στὸν ὕφαινε. 
