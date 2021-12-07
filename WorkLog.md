@@ -123,4 +123,8 @@ analyze VA1.1.1 with orthographic system, it will tell you it is a lexical token
 -22.441
 -urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6104,0.2830,0.1872,0.1549
 -aytpical diple in scholion matching diple on iliad line, very rare
-
+12/7/21
+Venetus B for 291R
+-WEAVING and the imagaery around it
+- the nepe scholion also deals with weaving, depiction amplifying pathos
+- -imagery connection to secluded section WHILE andromache is in secluded section of the house
