@@ -69,5 +69,11 @@ PROBLEM: the text here looks totally different from what the image shows
 # Book 23
 ## 23.760
 #  Book 24
+## 24.229-24.231
+https://homermultitext.github.io/facsimiles/venetus-a/315r/
+urn:cite2:hmt:vaimg.2017a:VA315RN_0485@0.184,0.7875,0.628,0.0443
+πεπλος : φαροσ· χιτων· χλαινα . διαφε : πεπλοι γαρ ας περ ενωντο μοναι γυναικες οι και εανοι καλουνται· χιτων δε ανδρειον ενδυμα φαρος ϊματιον· χλαινα το περιβλημα ⁑
+
+
 ## 24.448
 
