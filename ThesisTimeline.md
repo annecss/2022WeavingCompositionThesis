@@ -19,15 +19,15 @@ September 7: Critical Scholia List
 
 ## 2022
 
-- January
-- February
+### January
+### February
 - February 15 thesis abstract due (no more than 200
 words)
-- March
+### March
 - March 16  rough draft of thesis due 
-- April
+### April
 - April 28  academic conference
-- May
+### May
 - May 9: final (grading) copy of thesis due to advisor and
 Readers 
 - May 18: final grade for thesis due to chp director
