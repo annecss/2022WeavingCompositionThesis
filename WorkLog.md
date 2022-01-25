@@ -128,3 +128,8 @@ Venetus B for 291R
 -WEAVING and the imagaery around it
 - the nepe scholion also deals with weaving, depiction amplifying pathos
 - -imagery connection to secluded section WHILE andromache is in secluded section of the house
+
+SPRING 2022
+- 1/25/2022 Agenda
+- rough draft for my readers?
+- -finish bibliography entries
