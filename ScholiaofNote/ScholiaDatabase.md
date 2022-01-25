@@ -21,6 +21,9 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  ## 3.212
  # Book 6
  ## 6.288
+ https://homermultitext.github.io/facsimiles/venetus-a/86r
+ urn:cite2:hmt:vaimg.2017a:VA086RN_0258@0.56079587,0.36846473,0.10243183,0.03278008
+ ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν
  # Book 14
  ## 14.179
  http://www.homermultitext.org/facsimiles/venetus-a/184r/
@@ -45,7 +48,7 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  ## 14.214
  http://www.homermultitext.org/facsimiles/venetus-a/184v/
  http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768
- 
+  ῆ καὶ ἀπο στήθεσφιν . ** ὅτι κεστὸς ἐκ παρεπομένου ὁ ποικίλος ἀπο τοῦ δια τὰς ῥαφὰς κεκεντῆσθαι ἐμπεπυκιλμένης τῆς φιλότητ καὶ ἱ̈μέρου καὶ ὁ ἀριστύος . καὶ οὐκ έστι κύριον ὄνομα ὡς ἔνιοι τῶν ἀρχαιων δι ὃ καὶ ἐπάλλου λέγει ἄγχε δέ μιν πολυκεστος ϊμάς ⁑
 # Book 22
 ## 22. 440 crucial scene in book 22
 ##how do scholaists read 291r in venetus a, what problems does it pose for 10th cenutyr reader, what do thehy pick up on, 
@@ -68,6 +71,7 @@ PROBLEM: the text here looks totally different from what the image shows
  κωκυτοῦ δ’ ήκουσεν . ἀντι τοῦ θρήνου ήκουσεν ἐζήτηται δὲ πῶς τοσοῦτου γενομένου θορύβου μόλις Ἀνδρομάχη προῆλθεν . φασὶ δὲ ὡς ὅτι ἡ προτέρα τοῦ ἀνδρὸς ἐπίπληξις ἡ εν τῆ Ζ σωφρονεῖν αὐτὴν ἀναγκάζει ⁑
 # Book 23
 ## 23.760
+no scholia?
 #  Book 24
 ## 24.229-24.231
 https://homermultitext.github.io/facsimiles/venetus-a/315r/
@@ -76,4 +80,4 @@ urn:cite2:hmt:vaimg.2017a:VA315RN_0485@0.184,0.7875,0.628,0.0443
 
 
 ## 24.448
-
+no scholia on page?
