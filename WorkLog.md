@@ -135,3 +135,4 @@ SPRING 2022
 - -finish bibliography entries
 problem: https://homermultitext.github.io/facsimiles/venetus-a/295r/
 text stops here, 23.87 https://homermultitext.github.io/facsimiles/venetus-a/294v/
+14. 213, - 14.219 look at all scholia
