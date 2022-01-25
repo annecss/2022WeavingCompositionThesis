@@ -133,3 +133,5 @@ SPRING 2022
 - 1/25/2022 Agenda
 - rough draft for my readers?
 - -finish bibliography entries
+problem: https://homermultitext.github.io/facsimiles/venetus-a/295r/
+text stops here, 23.87 https://homermultitext.github.io/facsimiles/venetus-a/294v/
