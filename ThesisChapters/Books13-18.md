@@ -7,3 +7,6 @@ commening on kestos and poilkilos
 ὁ ἀριστύς
 ὀαριστύς- conversation between loves, bk 6 hector and andromache
 κύριον ὄνομα-proper name
+kestos related to kentawu
+polikilw -ornamented from the fact the sticthing has been embroidered WITH the magic things ἐμπεπυκιλμένης,
+maybe related to image more than technique
