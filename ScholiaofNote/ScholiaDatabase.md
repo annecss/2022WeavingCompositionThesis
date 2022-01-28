@@ -26,6 +26,8 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  https://homermultitext.github.io/facsimiles/venetus-a/86r
  urn:cite2:hmt:vaimg.2017a:VA086RN_0258@0.56079587,0.36846473,0.10243183,0.03278008
  ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν
+ 6.288 in both editions of aristarchus, offers multiform line
+6.289 diple for grammatical comment we must read it with enclitic accent, poi is not considered the article, rather the pronoun "peploi were placeed for him" not "the peploi"
  # Book 14
  ## 14.179
  http://www.homermultitext.org/facsimiles/venetus-a/184r/
