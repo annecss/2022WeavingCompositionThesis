@@ -24,6 +24,10 @@
  link to an example scholion
 ## Nouns
 
+### ἑανός
+- 184r 14.179
+I. can be used to describe linen
+
 ### θρόνον
 - urn:cite2:hmt:lsj.chicago_md:n49203
 - I. flowers embroidered on cloth II. herbs used as drugs and charms, used in sacrificial offerings
@@ -62,7 +66,7 @@
 
 -ἀμβροσίη
 
--ἑανός can be used to describe linen
+
 
 -ἀσκέω
 
