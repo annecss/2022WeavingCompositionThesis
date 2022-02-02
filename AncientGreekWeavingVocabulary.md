@@ -13,6 +13,7 @@
 ### ποικίλλω
 - urn:cite2:hmt:lsj.chicago_md:n68166
 - I. work in various colors, work in embroidery II. embroider, diversify, vary III. embellish, adorn, tell with art and elegance IV. vary, change
+- -scholars like Susan Edmunds (Picturing Homeric Weaving) have argued that in this context ποικίλλω would refer to pattern-weaving, not what we think of as embroidery
 
 ### ῥάπτω
 - urn:cite2:hmt:lsj.chicago_md:n92189
