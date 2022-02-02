@@ -6,5 +6,5 @@ Hecuba sacrifices a fine garment to Athena on behalf of Hector. The scholia on t
 ## Book 14,  http://www.homermultitext.github.io/facsimiles/venetus-a/184v/
 In this scene, Aphrodite gives her belt to Hera, who will use it to charm Zeus.
 ## Book 22, http://www.homermultitext.github.io/facsimiles/venetus-a/291r/
-Andromache weaves while waiting for news of her husband Hector. This scene is particularly interesting for its similairites to Helen's weaving in book 3.
+Andromache weaves while waiting for news of her husband Hector. This scene is particularly interesting for its similairites to Helen's weaving in book 3. 291r contains multiple scholia pertaing to her role as a weaver and the technical terms for the description of this scene.
 
