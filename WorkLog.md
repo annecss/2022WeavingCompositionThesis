@@ -139,3 +139,6 @@ text stops here, 23.87 https://homermultitext.github.io/facsimiles/venetus-a/294
 15. 6.288 in both editions of aristarchus, offers multiform line
 16. 6.289 diple for grammatical comment we must read it with enclitic accent, poi is not considered the article, rather the pronoun "peploi were placeed for him" not "the peploi"
 17. make a list of key pages linked to scholia!! 4 to 6! notify over groupme
+
+2/1/22
+Began abstract, created Literature review, worked on Key pages
