@@ -28,6 +28,7 @@ https://www.homermultitext.org/facsimiles/venetus-a/44r/
  ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν
  6.288 in both editions of aristarchus, offers multiform line
 6.289 diple for grammatical comment we must read it with enclitic accent, poi is not considered the article, rather the pronoun "peploi were placeed for him" not "the peploi"
+what is going on with the scholia s aset of commentary?
  # Book 14
  ## 14.179
  http://www.homermultitext.org/facsimiles/venetus-a/184r/
