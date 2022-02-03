@@ -142,3 +142,5 @@ text stops here, 23.87 https://homermultitext.github.io/facsimiles/venetus-a/294
 
 2/1/22
 Began abstract, created Literature review, worked on Key pages
+2/3/22
+-write up hecuba, rewrite and source helen, look at abstract and focus on key passages, and reorganize
