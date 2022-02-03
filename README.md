@@ -1,4 +1,4 @@
-# 2022WeavingCompositionThesis
+# 2022WeavingCompositionThesis: Woven Words in the Iliad
 Senior Thesis
 A repository dedicated towards storing material for my senior thesis on gender and weaving in Iliad manuscripts and their associated critical commentary in the scholia
 http://www.homermultitext.org/digital/scholia/diplomatic/
