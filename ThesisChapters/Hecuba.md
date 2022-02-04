@@ -1,4 +1,5 @@
 # Hecuba
+Hector has just returned to Troy and asks his mother to sacrifice a garment to Athena for him.
 ## Scholia Translations
 ### 6.288
 ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν
