@@ -3,7 +3,7 @@
 ### 6.288
 ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν
 In both editions of Aristarchus he presents an alternate reading, "going into the house she brought over a chest"
-dative??
+dative?? παρίστατο- who is the subject?
 ### 6.289
 ἔθεσαν οἱ πέπλοι ὅτι ἐγκεκλιμένως ἀναγνωστέον οὕτως δύο τόνοις καίτοι πορριχιακῆς οὔσης τῆς λέζεως ἵνα μὴ ἄρθρον νοηθῇ τὸ οἱ ἀλλ’ αντωνυμία ⁑
 "Garments were placed for him",  this is because one must read the enclitic, being not the article but [νοηθῇ] rather the pronoun.
