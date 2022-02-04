@@ -1,5 +1,5 @@
 # Reading List
-
+https://chs.harvard.edu/read/nagy-gregory-platos-rhapsody-and-homers-music/
 - Dickey, Eleanor. Ancient Greek Scholarship a Guide to Finding, Reading, and Understanding Scholia, Commentaries, Lexica, and Grammatical Treatises, from Their Beginnings to the Byzantine Period Eleanor Dickey. American Philological Association Classical Resources Series: No. 7. Oxford University Press, 2006. https://search.ebscohost.com/login.aspx?direct=true&db=cat06787a&AN=chc.b2323797&site=eds-live&scope=site.
 - https://chs.harvard.edu/susan-t-edmunds-picturing-homeric-weaving/#comments
 - Edmunds, Susan T., Prudence J. Jones, Gregory. Nagy, and Alison. Marek. Text & Textile an Introduction to Wool-Working for Readers of Greek and Latin Written and Produced by Susan Edmunds and Prudence Jones. the Dept. of Classics, Rutgers University, 2004. https://search.ebscohost.com/login.aspx?direct=true&db=cat06787a&AN=chc.b1457745&site=eds-live&scope=site.
