@@ -1,17 +1,26 @@
 # Hecuba
-Hector has just returned to Troy and asks his mother to sacrifice a garment to Athena for him.
+Hector has just returned to Troy and asks his mother, Hecuba, to sacrifice a garment to Athena for him.
 ## Scholia Translations
+### 6.282
+γαία χανοι διασταίη ἡ γῆ ὥστε χάσματος γενομενου καταποθῆναι . ἠ καταπίοι ἡ γῆ ἵνα μὴ δι ανδρομαχ ἀχην δοκεῖ της μρς δέξασθαι καλῶς δὲ τὰ ἀναγκαῖα προκρίνει των ηδέων ⁑
+-hector's counterfactual speech
+-let earth swallow him up, let the earth split open so that when a huge chasm has been created
+### 6.285
+Ζηνοδ φίλον ῆτορ ⁑ 
+Zenodutus read 
 ### 6.288
 ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν
 In both editions of Aristarchus he presents an alternate reading, "going into the house she brought over a chest"
-dative?? παρίστατο- who is the subject?
+dative?? παρίστατο- who is the subject? she standing by the chests
+complete hexameter from  ἡ δ
 ### 6.289
 ἔθεσαν οἱ πέπλοι ὅτι ἐγκεκλιμένως ἀναγνωστέον οὕτως δύο τόνοις καίτοι πορριχιακῆς οὔσης τῆς λέζεως ἵνα μὴ ἄρθρον νοηθῇ τὸ οἱ ἀλλ’ αντωνυμία ⁑
-"Garments were placed for him",  this is because one must read the enclitic, being not the article but [νοηθῇ] rather the pronoun.
+"Garments were placed for him",  the critical sign is there with two accents this is because one must read the enclitic, being not the article but [νοηθῇ] rather the pronoun.
+νοηθῇ- not be thought aor pass subj
 ## 6.291
  Σιδονίηθεν δεδηὼς γὰρ τὸν διωγμὸν δια Φοινίκης καὶ Αἰγύπτου ἦλθεν ὡς καὶ οἱ Ἀργοναυται . διὰ τοῦ Ἴστρου.
  της περιεργασίας δὲ Ἀλεξάνδρου τὸ μὴ ὠνήσασθαι πέπλους ἀλλα καὶ πρίασθαι τὰς ἐργαζομένας ⁑
- "From Sdon", it came through Phoenicia and Egypt as the Argonauts. Through Istria
+ "From Sidon", it came through Phoenicia and Egypt as the Argonauts. Through Istria
  purchase the textiles, but to buy as slaves those who labor
  
  οτι ἀπο μιᾶς πόλεως της Σιδῶνος τὴν Φοινικην σημαίνει ⁑
