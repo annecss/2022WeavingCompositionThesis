@@ -45,29 +45,7 @@ what is going on with the scholia s aset of commentary?
  http://www.homermultitext.org/facsimiles/venetus-a/184v/
  http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768
   ῆ καὶ ἀπο στήθεσφιν . ** ὅτι κεστὸς ἐκ παρεπομένου ὁ ποικίλος ἀπο τοῦ δια τὰς ῥαφὰς κεκεντῆσθαι ἐμπεπυκιλμένης τῆς φιλότητ καὶ ἱ̈μέρου καὶ ὁ ἀριστύος . καὶ οὐκ έστι κύριον ὄνομα ὡς ἔνιοι τῶν ἀρχαιων δι ὃ καὶ ἐπάλλου λέγει ἄγχε δέ μιν πολυκεστος ϊμάς ⁑
-# Book 22
-## 22. 440 crucial scene in book 22
-##how do scholaists read 291r in venetus a, what problems does it pose for 10th cenutyr reader, what do thehy pick up on, 
-http://www.homermultitext.org/facsimiles/venetus-a/291r/
-http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6116,0.2772,0.1879,0.1285
-ἀλλ' ἥ γ' ἱ̈στὸν ὕφαινε. 
-οτι ασυμπαθης η ανδρομαχῃ εν τοσουτω θορυβῳ κατ οικον ατρεμουσα και ταυτα την αχιλλεως εφοδον ουκ αγνοουσα , εοικεν ουν φησιν ο αρισταρχ προκαταχρησαμενος ο ποιητης τῳ της ανδρομαχης προσωπω κατα την προς εκτορος κοινολογιαν απεσχισθαι νυν του προσωπου 
-## 22.441:
-http://www.homermultitext.org/facsimiles/venetus-a/291r/
-!(http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6116,0.2772,0.1879,0.1285)
-ποικίλ’ έπασσεν· πάσσειν Κύπριοι τὸ ποικίλλειν ἀφ οῦ παστὸς ὁ θάλαμος ⁑
-PROBLEM: the text here looks totally different from what the image shows
- ## 22.445:
- http://www.homermultitext.org/facsimiles/venetus-a/291r/
- ! (http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6067,0.4239,0.1872,0.03748)
-  ἡδ’ αῦτις δμωῇσι αὔξει τὸ πάθ , τοσοῦτον γὰρ ἀπέχει τοῦ ἐννοεῖν τί τῶν συμβεβηκότων ὡς καὶ λουτρὰ τῷ ἀνδρὶ παρασκευάζειν μονονουχὶ ὁρῶσα τὸν Ἕκτορα διὸ καὶ ἐπεφώνησεν ὁ ποιητὴς τὸ  νηπίη οὐδ’ ἐνόησεν ὥσπερ ἐλεῶν τὴν ἄγνοιαν αὐτῆς ⁑
- ## 22.447:
- http://www.homermultitext.org/facsimiles/venetus-a/291r/
- http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6078,0.4019,0.1907,0.03721
- κωκυτοῦ δ’ ήκουσεν . ἀντι τοῦ θρήνου ήκουσεν ἐζήτηται δὲ πῶς τοσοῦτου γενομένου θορύβου μόλις Ἀνδρομάχη προῆλθεν . φασὶ δὲ ὡς ὅτι ἡ προτέρα τοῦ ἀνδρὸς ἐπίπληξις ἡ εν τῆ Ζ σωφρονεῖν αὐτὴν ἀναγκάζει ⁑
- ## 22.469-22.470
- http://www.homermultitext.org/facsimiles/venetus-a//
- αρσενικως το διαδημα προς αναδεσιν των κομων ας περιστελλοντες οι παλαιοι υπο τουτων παρηγοντο και νυν αμπυκιζειν το τας εμπροσθιους τριχας αναδεισθαι· και χρυσαμπυκες ιπποι δια το δεισθαι στροφιῳ τας κορυφαιας των τριχων παρα το αμπεχειν· αναδεσμη δε λεγεται σειρα ην περι τους κροταφους αναδουνται· καλειται δε υπ' ενιων καλαυδακη .  κρηδεμνον δε παλιν το μαφοριον , σχομενη κρηδεμνα ⁑
+
 # Book 23
 ## 23.760
 no scholia?
