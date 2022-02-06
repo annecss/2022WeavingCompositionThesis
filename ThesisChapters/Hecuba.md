@@ -35,7 +35,7 @@ complete hexameter from  ἡ δ
  οτι πάλιν παρὰ γούνασιν ⁑
  because
 ## Analysis
-In Book 6, The scholiast provides multiple comments on the garments Hecuba sacrifices to Athena at the behest of her son Hector. Hecuba playacts a role that would have been familiar to the Athenian listeners. 
+The first scholion on the page ends Hector's invective against his brother. With this outpouring of emotion, Hecuba can understand how angry and exhausted Hector feels. The women of Troy are usually on the sidelines, but here, Hecuba feels that she has an opportunity to help. In Book 6, The scholiast provides multiple comments on the garments Hecuba sacrifices to Athena at the behest of her son Hector. Hecuba playacts a role that would have been familiar to the Athenian listeners. 
 An elite woman oversees the sacrifices of textiles every year in Athens to the Pallas Athena.
 ἀγελείη what does this epithet mean?
 ποικίλμασιν- had a lot of work done on it, ornamentation?
