@@ -10,7 +10,7 @@ Hector has just returned to Troy and asks his mother, Hecuba, to sacrifice a gar
 Zenodutus read 
 ### 6.288
 ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν
-In both editions of Aristarchus he presents an alternate reading, "going into the house she brought over a chest"
+In both editions of Aristarchus he presents an alternate reading, "going into the house she standing by the chests"
 dative?? παρίστατο- who is the subject? she standing by the chests
 complete hexameter from  ἡ δ
 ### 6.289
@@ -24,7 +24,7 @@ complete hexameter from  ἡ δ
  purchase the textiles, but to buy as slaves those who labor
  
  οτι ἀπο μιᾶς πόλεως της Σιδῶνος τὴν Φοινικην σημαίνει ⁑
- because the people of Sidon
+ because the people of Sidon the Phoenicians
  ## 6.292
   τὴν ὁδὸν ὅτι τὸν ἐκ Πελοποννησου ἐπ Ἴλιον πλοῦν ἀναγωγὴν λέγει ⁑
  "the road", because it is called by the iliad the upward journey from the Peloponnesian
@@ -44,10 +44,14 @@ An elite woman oversees the sacrifices of textiles every year in Athens to the P
 the robes were placed for him
  ἐν ταῖς Ἀριστάρχου φερε καὶ ἑτέρως ἡ δ’ εἰς οῖκον ϊοῦσα παρίστατο φωριαμοῖσιν 
  Gregory Nagy argues that here is a "pervasive historical connection" between performances of Homeric epic and the Panathenaia. 
-The enslaved women get a rare moment of acknowledgement. 
+The enslaved women get a rare moment of acknowledgement. They bring a skill that it is implied the women of Troy do not have. They have special knowledge in a time when slaves were expected to only do the most menial of taks associated with weaving, and not exert creative control. Or could it just be a very valuable technique? but there is the implication of adornment.
 Σιδονίηθεν δεδηὼς γὰρ τὸν διωγμὸν δια Φοινίκης καὶ Αἰγύπτου ἦλθεν ὡς καὶ οἱ Ἀργοναυται . διὰ τοῦ Ἴστρου . της περιεργασίας δὲ Ἀλεξάνδρου τὸ μὴ ὠνήσασθαι πέπλους ἀλλα καὶ πρίασθαι τὰς ἐργαζομένας ⁑
 θάλαμον
+κάλλιστος ἔην ποικίλμασιν intricately worked
+μέγιστος physically biggest? like something intended for a larger than life goddess?
 what is the distinction between a treasure room and a bed chamber? or does it just mean private chamber? 
 the gown underneath the rest
+Has it never been worn? Is it being saved for something special?
 παμποίκιλα there is power in the weaving, divine power, as garments dedicated for a goddess 
 what happens to that aborted energy?
+maybe large squares could be used for a variety of purposes? they don't have clearly established uses yet?
