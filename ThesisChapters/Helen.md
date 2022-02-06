@@ -1,4 +1,4 @@
-# Books One through Six of the Iliad
+# Helen: Book 3 Weaving Control
 ## Book 3
 
 # Book 3
