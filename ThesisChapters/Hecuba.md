@@ -49,3 +49,5 @@ The enslaved women get a rare moment of acknowledgement.
 θάλαμον
 what is the distinction between a treasure room and a bed chamber? or does it just mean private chamber? 
 the gown underneath the rest
+παμποίκιλα there is power in the weaving, divine power, as garments dedicated for a goddess 
+what happens to that aborted energy?
