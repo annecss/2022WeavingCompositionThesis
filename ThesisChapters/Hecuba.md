@@ -55,3 +55,7 @@ Has it never been worn? Is it being saved for something special?
 παμποίκιλα there is power in the weaving, divine power, as garments dedicated for a goddess 
 what happens to that aborted energy?
 maybe large squares could be used for a variety of purposes? they don't have clearly established uses yet?
+a particular meaning for the listeners at athens
+Would they have been shocked to hear Athena refuse the gift,  so similar to the one they gave her every year?
+There is a scarcity of scholarship on hecuba, much less her relationship with her son. HOmer is usually overshadowed by Euripides
+
