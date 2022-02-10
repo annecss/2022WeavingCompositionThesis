@@ -1,4 +1,25 @@
 # Woven Connections between Three Goddesses
+# scholia
+14.179
+
+http://www.homermultitext.org/facsimiles/venetus-a/184r/ http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184RN_0185@0.16101695,0.10995851,0.61514370,0.03319502 urn:cite2:hmt:vaimg.2017a:VA184RN_0185 ἔξυσεν : ** ἐκέρκισεν ξύουσι γὰρ τὴν κρόκην προς τὸ πυκνωθῆναι . οἱ δὲ ἐλέανεν ἀπο μεταφορᾶς τῶν ξύλων· οἱ δὲ ἀντι τοῦ ἔγναψεν μετα τὸ ὑφανθῆναι :
+
+-θάλαμον (in her private chamber)
+
+-ἔπλεξε
+
+-ἀμβροσίη
+
+-ἑανός can be used to describe linen
+
+-ἀσκέω
+
+-ξύω
+
+-δαίδαλος
+14.214
+
+http://www.homermultitext.org/facsimiles/venetus-a/184v/ http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768 ῆ καὶ ἀπο στήθεσφιν . ** ὅτι κεστὸς ἐκ παρεπομένου ὁ ποικίλος ἀπο τοῦ δια τὰς ῥαφὰς κεκεντῆσθαι ἐμπεπυκιλμένης τῆς φιλότητ καὶ ἱ̈μέρου καὶ ὁ ἀριστύος . καὶ οὐκ έστι κύριον ὄνομα ὡς ἔνιοι τῶν ἀρχαιων δι ὃ καὶ ἐπάλλου λέγει ἄγχε δέ μιν πολυκεστος ϊμάς ⁑
 commening on kestos and poilkilos
 -why is imas called kestos? scholia answers
 ἐμπεπυκιλμένης- pokilw
