@@ -30,3 +30,4 @@ She weaves a sour gift. Does Helen claim this position of visibility for a reaso
 Or is it guilt perhaps? People fight and die in Helen’s name, although the war is about so much more than just her. 
 πολύδακρυν  many tears
 
+ μέγαν ἱ̈στὸν a hnt to the size of what she creates? a goddess gift perhaps?
