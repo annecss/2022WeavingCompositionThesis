@@ -1,7 +1,7 @@
 # Reading List
 ## https://chs.harvard.edu/read/nagy-gregory-platos-rhapsody-and-homers-music/
 ## - Bolling, George Melville. “Poikilos and Qrona.” The American Journal of Philology 79, no. 3 (1958): 275–82. https://doi.org/10.2307/292564.
-spiritual power
+Bolling provides an etymological analysis of two important, but confusing termsas they are used in the _Iliad_ and _Odyssey_. He explains thαt the nouns _ποικιλος_ and _θρονος_  refer not only to human-created decorative features, but to materials embedded with spiritual power.
 ## - Dickey, Eleanor. Ancient Greek Scholarship a Guide to Finding, Reading, and Understanding Scholia, Commentaries, Lexica, and Grammatical Treatises, from Their Beginnings to the Byzantine Period Eleanor Dickey. American Philological Association Classical Resources Series: No. 7. Oxford University Press, 2006. https://search.ebscohost.com/login.aspx?direct=true&db=cat06787a&AN=chc.b2323797&site=eds-live&scope=site.
 Dickey's indispensable guide to ancient scholatship provides a general overivew of the flourishing field of anciet Greek textual commentary and specific information on major works, such as the known scholars of Homer. I relied on Chapter One, the "Introduction to Ancient Scholarship", Chapter 2 through 2.1.1.3 for its information on various sources of ancient scholarship on Homer, and Chapters 4 and 5 for assistance on learning the tricky scholarly Greek of the scholia and the accompanying practice materials. The appendices were also particularly helpful. 
 ## - https://chs.harvard.edu/susan-t-edmunds-picturing-homeric-weaving/#comments
@@ -22,4 +22,4 @@ Ferrera provodes a nuanced discussion on the color purple and its close assoicat
 This work is a solid introduction to the overlooked role of parent-child relarionships in the moral and social universe of the _Iliad_.
 ## - Losh, Elizabeth M. (Elizabeth Mathews), editor., and Jacqueline, editor. Wernimont. Bodies of Information : Intersectional Feminism and Digital Humanities Elizabeth Losh and Jacqueline Wernimont, Editors. Debates in the Digital Humanities. University of Minnesota Press, 2018. https://search-ebscohost-com.holycross.idm.oclc.org/login.aspx?direct=true&db=cat06787a&AN=chc.b3120488&site=eds-live&scope=site.
 ## - Wace, A. J. B. "Weaving or Embroidery?" American Journal of Archaeology 52, no. 1 (1948): 51-55. Accessed March 31, 2021. doi:10.2307/500552.
-clears up a point of confusion and dsaved me from embarrasing error
+clears up a point of confusion and saved me from embarassing error
