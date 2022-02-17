@@ -1,3 +1,6 @@
 # Literature Review
+In attempting to describe textiles, the modern researcher is digging through layers of confusion, misinformation, and willful ignorance that extend from transalotrs, ancient scholars, to probably the mythical poet himself. (if  he was a psingular male human)
 Much of the scholarship I relied on was created indirectly or directly due to the support of the Center for Textile Research at the University of Copenhagen. The work of Susan Edmunds was invaluable to my understanding of the character of Andromache. From these works, I gleaned much of what now comprises the technical weaving vocabulary list. 
 Scholars take a haphazard and carefree approach to textiles "they seem to scorn such assistance and attempt to solve the problems before them in the light of their own knowledge, usually all to limited, of the matter in hand. (Wace, 51)
+embroidering requires a whole other step. It doesn't make sense!
+ "...it is quite easy to produce patterns of warriors and animals in tapestry weaving." (Wace, 53)
