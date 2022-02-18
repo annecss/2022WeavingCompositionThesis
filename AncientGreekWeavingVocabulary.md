@@ -32,6 +32,7 @@ I. can be used to describe linen
 ### θρόνον
 - urn:cite2:hmt:lsj.chicago_md:n49203
 - I. flowers embroidered on cloth II. herbs used as drugs and charms, used in sacrificial offerings
+- Not embroidered, pattern-woven
 
 ### ἱστός
 - urn:cite2:hmt:lsj.chicago_md:n51269
