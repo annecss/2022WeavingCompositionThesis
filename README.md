@@ -15,3 +15,5 @@ https://github.com/HCMID/scholia-transmission/tree/main/nbs
  -Lexicon: http://folio2.furman.edu/lsj/
 
 -Diplomatic scholia: http://www.homermultitext.org/digital/scholia/diplomatic/
+
+-NEW facsimile homermultitext.org/alpha-search
