@@ -15,16 +15,18 @@ Tha authors investigate the relationship between textile terms and the productio
 ## - Ferrara, Bianca. “‘A Lydian Chiton with a Purple Fringe..": The Gift of the Garment to Hera of Samos and Hera of Sele.” Essay. In Treasures from the Sea: Sea Silk &amp; Shellfish Purple Dye in Antiquity 30, 30:171–87. Ancient Textiles Series. Oxbow Books, n.d. 
 Ferrera provodes a nuanced discussion on the color purple and its close assoication with textiles and ritual offerings. Garments were important votive objects, and purple garments were historically sacrificed to Hera and Athena.
 ## - Harlow, Mary, 1956- editor., and Marie-Louise, editor. Nosch. Greek and Roman Textiles and Dress : An Interdisciplinary Anthology Edited by Mary Harlow and Marie-Louise Nosch. Ancient Textiles Series: VOL. 19. Oxbow Books, 2015. https://search.ebscohost.com/login.aspx?direct=true&db=cat06787a&AN=chc.b2633378&site=eds-live&scope=site.
-## - Mary Ebbott, Poetics of Ambush
 DINAND
 ## - Lee, Mireille M. Body, Dress, and Identity in Ancient Greece Mireille M Lee, Assistant Professor, Vanderbilt University. ACLS Humanities E-Book. Cambridge University Press, 2015. https://search.ebscohost.com/login.aspx?direct=true&db=cat06787a&AN=chc.b3500815&site=eds-live&scope=site.
+This book synthesizes archaeological and literary sources to apply modern dress theory to the garments of the ancient Greek world, exploring their intersections with social identity.
 ## - Losh, Elizabeth M. (Elizabeth Mathews), editor., and Jacqueline, editor. Wernimont. Bodies of Information : Intersectional Feminism and Digital Humanities Elizabeth Losh and Jacqueline Wernimont, Editors. Debates in the Digital Humanities. University of Minnesota Press, 2018. https://search-ebscohost-com.holycross.idm.oclc.org/login.aspx?direct=true&db=cat06787a&AN=chc.b3120488&site=eds-live&scope=site.
 DINAND
 ## Nagy, Gregory. Plato's Rhapsody and Homer's Music: The Poetics of the Panathenaic Festival in Classical Athens. Washington, DC: Center for Hellenic Studies, Trustees for Harvard University, 2002. https://chs.harvard.edu/read/nagy-gregory-platos-rhapsody-and-homers-music/
 This work offers a comprehensive overview of different aspects of Homeric performance at the Panathenaic festivals. Chapter 3, discussing the use of ὕμνον as term related to both weaving and song composition.
 ## - Nünlist, René. The Ancient Critic at Work: Terms and Concepts of Literary Criticism in Greek Scholia René Nünlist. Cambridge University Press, 2009. https://search-ebscohost-com.holycross.idm.oclc.org/login.aspx?direct=true&db=cat06787a&AN=chc.b1784389&site=eds-live&scope=site.
+DINAND
 ## - Pratt, Louise. “The Parental Ethos of the Iliad.” Hesperia Supplements 41 (2007): 25–40. http://www.jstor.org/stable/20066781.
 This work is a solid introduction to the overlooked role of parent-child relarionships in the moral and social universe of the _Iliad_.
 ## - Scodel, Ruth. Listening to Homer: Tradition, Narrative, and Audience, University of Michigan Press, 2002. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/holycrosscollege-ebooks/detail.action?docID=3414793.
+Ancient audiences undstood Homer through aural performance, with the context of traditional myths and legends providing background knowledge. Socdel explores the aural tradition and its relation to the formulaic language in Homer.
 ## - Wace, A. J. B. "Weaving or Embroidery?" American Journal of Archaeology 52, no. 1 (1948): 51-55. Accessed March 31, 2021. doi:10.2307/500552.
-clears up a point of confusion and saved me from embarassing error
+This work clarifies a major point of confusion about the exact forms of ancient textiles, establishing definitavely that Homeric textiles would have been pattern-woven, not embroidered. 
