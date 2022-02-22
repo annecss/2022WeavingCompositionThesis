@@ -17,9 +17,10 @@ http://www.homermultitext.org/facsimiles/venetus-a/184r/ http://www.homermultite
 -ξύω
 
 -δαίδαλος
+## 184v
 14.214
 
-http://www.homermultitext.org/facsimiles/venetus-a/184v/ http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768 ῆ καὶ ἀπο στήθεσφιν . ** ὅτι κεστὸς ἐκ παρεπομένου ὁ ποικίλος ἀπο τοῦ δια τὰς ῥαφὰς κεκεντῆσθαι ἐμπεπυκιλμένης τῆς φιλότητ καὶ ἱ̈μέρου καὶ ὁ ἀριστύος . καὶ οὐκ έστι κύριον ὄνομα ὡς ἔνιοι τῶν ἀρχαιων δι ὃ καὶ ἐπάλλου λέγει ἄγχε δέ μιν πολυκεστος ϊμάς ⁑
+### http://www.homermultitext.org/facsimiles/venetus-a/184v/ http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA184VN_0686@0.23489315,0.46597510,0.22439204,0.08215768 ῆ καὶ ἀπο στήθεσφιν . ** ὅτι κεστὸς ἐκ παρεπομένου ὁ ποικίλος ἀπο τοῦ δια τὰς ῥαφὰς κεκεντῆσθαι ἐμπεπυκιλμένης τῆς φιλότητ καὶ ἱ̈μέρου καὶ ὁ ἀριστύος . καὶ οὐκ έστι κύριον ὄνομα ὡς ἔνιοι τῶν ἀρχαιων δι ὃ καὶ ἐπάλλου λέγει ἄγχε δέ μιν πολυκεστος ϊμάς ⁑
 commening on kestos and poilkilos
 -why is imas called kestos? scholia answers
 ἐμπεπυκιλμένης- pokilw
@@ -31,7 +32,10 @@ commening on kestos and poilkilos
 kestos related to kentawu
 polikilw -ornamented from the fact the sticthing has been embroidered WITH the magic things ἐμπεπυκιλμένης,
 maybe related to image more than technique
-
+### msA 14.C13: ἐν δ’ ὀαριστὺς πάρφασις συναπτέον ἀμφότερα τὰ ὀνόματα τὴν παραλογιστικην ὁμιλίαν δι αμφοτερων δηλοῖ ⁑
+### msA 14.C14: τῇ νῦν τοῦτον ϊμαντα: ὅτι τὸ κατα τὸ στῆθος κόλπωμα τοῦ πέπλου κόλπον εῖπεν καὶ ὅτι τὸ τη λάβε ἐστιν ⁑
+### msA 14.C15: ἄπρηκτον γε νέεσθαι: τοῦτέστι πορέυεσθαι ουτ Ἀρίσταρχος : Δημήτριος δὲ γενεσθαι ἀντι τοῦ γενήσεσθαι βιαίως πάνυ. οὐδε γὰρ τὸ πυθέσθαι πυθέεσθαι γίνεται. οὐδὲ τὸ λαβέσθαι λαβέεσθαι ἵνα καὶ τὸ γενεσθαι γενέεσθαι γενήται ⁑
+### msA 14.C16: μειδήσασα δ’ ἔπειτα. ὅτι ἐπι τῇ φήμῃ οἰωνισαμένη ἐμειδησε προείρηκε γὰρ οὐκ έση ἄπρακτος. καὶ ἐν Οδ τὸ ὅμοιον: Ζεύς τοι δοίη ξεῖνε ὅττι μάλιστ’ ἐθέλεις , ὡς ἂρ ἔφη χαῖρεν δὲ κληδόνι δῖος Ὀδυσσεύς ⁑
 These godesses are at war. Yet, the sharing of garments builds bonds between them.
 ## Athena and Garments of Power 14.178-186
 
