@@ -1,10 +1,10 @@
-# Andromache
+# Andromache https://www.homermultitext.org/staging/va-facsimile/msA.291r/
 The scholia of 291 recto in the Venetus A, covering lines 436 to 460 of book 22 of the Iliad, center around the character and actions of Andromache, and her woven garment. 
 ## Intermarginal and Interlinear Scholia
 # Book 22
 ## 22. 440 crucial scene in book 22
 ##how do scholiasts read 291r in venetus a, what problems does it pose for 10th cenutyr reader, what do thehy pick up on, 
-http://www.homermultitext.org/facsimiles/venetus-a/291r/
+https://www.homermultitext.org/staging/va-facsimile/msA.291r/
 http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA291RN_0461@0.6116,0.2772,0.1879,0.1285
 ἀλλ' ἥ γ' ἱ̈στὸν ὕφαινε. 
 οτι ασυμπαθης η ανδρομαχῃ εν τοσουτω θορυβῳ κατ οικον ατρεμουσα και ταυτα την αχιλλεως εφοδον ουκ αγνοουσα , εοικεν ουν φησιν ο αρισταρχ προκαταχρησαμενος ο ποιητης τῳ της ανδρομαχης προσωπω κατα την προς εκτορος κοινολογιαν απεσχισθαι νυν του προσωπου 
@@ -172,4 +172,4 @@ The passages of Helen and Andromache struck me the first time that I read the Il
 George Bolling She weaves roses for Hector, a protective symbol like the real flower's thorns.Bolling cites a scholiast on Theocr. 2. 59, commenting on X 441, who believed (in summary): "(1) That different flowers secured different blessings for their wearers; (2) that roses brough one's man back safe and sound to the one who wore them; (3) that Andromache's mοst intense wish was for the safety of Hector." (Bolling, 281) This suggests that the term _θρονα_ would have special significance to the bard's listeners.
 The scholiast confirms Bolling's assumption about how Homer creates Andromache into a pathetic figure. 
 
-
+466-472 the unveiling?
