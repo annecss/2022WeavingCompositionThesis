@@ -23,6 +23,7 @@ September 7: Critical Scholia List
 ### February
 - February 15 thesis abstract due (no more than 200
 words)
+- February 25:  go over abstract
 ### March
 - March 1:
 - March 4:
