@@ -25,7 +25,7 @@ This work offers a comprehensive overview of different aspects of Homeric perfor
 ## - Nünlist, René. The Ancient Critic at Work: Terms and Concepts of Literary Criticism in Greek Scholia René Nünlist. Cambridge University Press, 2009. https://search-ebscohost-com.holycross.idm.oclc.org/login.aspx?direct=true&db=cat06787a&AN=chc.b1784389&site=eds-live&scope=site.
 DINAND
 ## - Pratt, Louise. “The Parental Ethos of the Iliad.” Hesperia Supplements 41 (2007): 25–40. http://www.jstor.org/stable/20066781.
-This work is a solid introduction to the overlooked role of parent-child relarionships in the moral and social universe of the _Iliad_.
+This work is a solid introduction to the overlooked role of parent-child relationships in the moral and social universe of the _Iliad_.
 ## - Scodel, Ruth. Listening to Homer: Tradition, Narrative, and Audience, University of Michigan Press, 2002. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/holycrosscollege-ebooks/detail.action?docID=3414793.
 Ancient audiences undstood Homer through aural performance, with the context of traditional myths and legends providing background knowledge. Socdel explores the aural tradition and its relation to the formulaic language in Homer.
 ## - Wace, A. J. B. "Weaving or Embroidery?" American Journal of Archaeology 52, no. 1 (1948): 51-55. Accessed March 31, 2021. doi:10.2307/500552.
