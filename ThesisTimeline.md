@@ -24,12 +24,27 @@ September 7: Critical Scholia List
 - February 15 thesis abstract due (no more than 200
 words)
 ### March
+- March 1:
+- March 4:
 - March 15: Rough Draft Presentation
-- March 16  rough draft of thesis due 
-- 
+- March 16:  rough draft of thesis due 
+- March 18:
+- March 22:
+- March 25:
+- March 29:
 ### April
-- April 28  academic conference
+- April 1:
+- April 5:
+- April 8:
+- April 12:
+- April 15:
+- April 19: 
+- April 22:
+- April 26:
+- April 27:  academic conference
 ### May
+- May 3:
+- May 6:
 - May 9: final (grading) copy of thesis due to advisor and
 Readers 
 - May 18: final grade for thesis due to chp director
