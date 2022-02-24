@@ -24,7 +24,9 @@ September 7: Critical Scholia List
 - February 15 thesis abstract due (no more than 200
 words)
 ### March
+- March 15: Rough Draft Presentation
 - March 16  rough draft of thesis due 
+- 
 ### April
 - April 28  academic conference
 ### May
