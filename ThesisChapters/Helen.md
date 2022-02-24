@@ -16,3 +16,4 @@ Does Helen claim this position of visibility for a reason? Is this a communal ga
 πολύδακρυν many tears an epithet often omitted
 
 
+22.510 Andromache mentions that Hector has an εἵματ᾽, a garment, ἐνὶ μεγάροισι She was just weaving in a private chamber of the house though. Perhaps this references a different garment, one on display?
