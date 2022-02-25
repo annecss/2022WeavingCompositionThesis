@@ -2,4 +2,4 @@
 The work of previous scholars has established powerful connections between the process of creating textiles and process of epic oral composition. I build on disparte sources from the fields of archaeology and philology and analyze how the scholia in one epic manuscript of the Iliad, the Venetus A, treat this issue and with a focus on how it interplays with gender, specifically the female characters in the Iliad who produce textiles. I focus on a few major sections of scholia and important scenes of weaving in the Iliad.The key female characters in the novel, both divine and human nearly all have a scene or allusion to weaving. Helen, Hecuba, Anddromache, and the three goddesses whose conflict started the war all reveal coded informaiton about their character and motivations and exert narrative control as they create, share, and sacfirice woven textiles.
 what do the scholiasts say, what they understand,  vs what I think is going on
 reading the scholia and iliad in relation
-
+why am i reading scholia? 
