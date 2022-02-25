@@ -25,8 +25,9 @@ September 7: Critical Scholia List
 words)
 - February 25:  go over abstract
 ### March
-- March 1:
-- March 4:
+- March 1: scholia review
+- March 4: Scholia due
+- March 14: 2 PM Presentation Runthrough
 - March 15: Rough Draft Presentation
 - March 16:  rough draft of thesis due 
 - March 18:
