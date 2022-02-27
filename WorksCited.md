@@ -22,6 +22,8 @@ This book synthesizes archaeological and literary sources to apply modern dress 
 DINAND
 ## Nagy, Gregory. Plato's Rhapsody and Homer's Music: The Poetics of the Panathenaic Festival in Classical Athens. Washington, DC: Center for Hellenic Studies, Trustees for Harvard University, 2002. https://chs.harvard.edu/read/nagy-gregory-platos-rhapsody-and-homers-music/
 This work offers a comprehensive overview of different aspects of Homeric performance at the Panathenaic festivals. Chapter 3, discussing the use of ὕμνον as term related to both weaving and song composition.
+## Neils, Jenifer. Goddess and Polis : The Panathenaic Festival in Ancient Athens : [Exhibition] Jenifer Neils with Contributions by E.J.W Barber .. [et Al.]. Hood Museum of Art, Dartmouth College, 1992. 
+DINAND
 ## - Nünlist, René. The Ancient Critic at Work: Terms and Concepts of Literary Criticism in Greek Scholia René Nünlist. Cambridge University Press, 2009. https://search-ebscohost-com.holycross.idm.oclc.org/login.aspx?direct=true&db=cat06787a&AN=chc.b1784389&site=eds-live&scope=site.
 DINAND
 ## - Pratt, Louise. “The Parental Ethos of the Iliad.” Hesperia Supplements 41 (2007): 25–40. http://www.jstor.org/stable/20066781.
