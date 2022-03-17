@@ -1,4 +1,14 @@
 # Hecuba
+ 
+ 
+ 
+βραχὺ διασταλτεον ἐπι τὸ Κισσηῒς 
+read a short [διασταλτεον] on Cisseus
+Comments on 6.299
+οτι πάλιν παρὰ γούνασιν ⁑ 
+because knee
+Comments on 6.303
+
 Hector has just returned to Troy and asks his mother, Hecuba, to sacrifice a garment to Athena for him.
 ## Scholia Translations
 ### 6.282
