@@ -30,10 +30,11 @@ words)
 - March 14: 2 PM Presentation Runthrough
 - March 15: Rough Draft Presentation
 - March 16:  rough draft of thesis due 
-- March 18:
-- March 22:
+- March 18: 
+- March 22: assignment: conclusion
 - March 25:
 - March 29:
+- Ebbott march 30: 
 ### April
 - April 1:
 - April 5:
